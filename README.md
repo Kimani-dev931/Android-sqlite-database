@@ -1,0 +1,2 @@
+# Android-sqlite-database
+In the repository for the Android SQLite database, the user can input their name and age. After typing the name and age in the respective EditText fields, the user can click the "Add Name" button to add this information to the SQLite database. A toast message is displayed to indicate that the user's information has been successfully added to the database. Additionally, the user has the option to print the name and age from the database. Below are screenshots that illustrate how this functionality works.
